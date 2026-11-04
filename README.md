@@ -1,4 +1,6 @@
-# ML-Analisis-y-prediccion-de-series-temporales
+![Banner](banner/banner_github.png)
+
+## Proyecto
 
 _ES_:
 Análisis del Índice de Precios al Consumo (IPC) del sector turístico de la Región de Murcia (2002-2025). Una exploración del uso de técnicas de descomposición de series temporales (Holt-Winters) y predicción de las mismas (modelos ARIMA).
